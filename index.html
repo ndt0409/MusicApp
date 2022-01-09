@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="shortcut icon" href="./assets/img/favicon.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+</head>
+<body>
+    <div class="app">
+        <div class="menu">
+            <div class="menu-vn active">World</div>
+            <div class="menu-uk">UK</div>
+        </div>
+        <div class="dashboard">
+            <div class="dashboard__now"></div>
+            <h2 class="doashboard__title"></h2>
+            <div class="doashboard__image">
+                <div class="doashboard__image-block" style="background-image: url(./assets/img/Song_1.jpg);"></div>
+            </div>
+            <div class="doashboard__controls">
+                <div class="btn btn-repeat">
+                    <i class="fas fa-redo"></i>
+                </div>
+                <div class="btn btn-prev">
+                    <i class="fas fa-step-backward"></i>
+                </div>
+                <div class="btn btn-play">
+                    <i class="fas fa-play"></i>
+                    <i class="fas fa-pause"></i>
+                </div>
+                <div class="btn btn-next">
+                    <i class="fas fa-step-forward"></i>
+                </div>
+                <div class="btn btn-random">
+                    <i class="fas fa-random"></i>
+                </div>
+            </div>
+            <div class="doashboard__progress-block">
+                <input class="doashboard__progress" type="range" value="0" step="1" min="0" max="100">
+                <div class="doashboard__progress-bar"></div>
+            </div>
+            <div class="doashboard__time">
+                <div class="doashboard__time-block">
+                    <span class="doashboard__current-minute">00</span><span>:</span>
+                    <span class="doashboard__current-second">00</span><span>/</span>
+                    <span class="doashboard__duration-time"></span>
+                </div>
+                <div class="doashboard__more">
+                    <span class="more-lyrics">Xem thêm</span>
+                    <span class="show-lyrics">Ẩn</span>
+                    <i class="fas fa-chevron-right"></i>
+                </div>
+            </div>
+            <div class="lyrics">
+                
+            </div>
+            <audio id="audio" src=""></audio>
+        </div>
+
+        <div class="playlist">
+            
+        </div>
+    </div>
+    
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
