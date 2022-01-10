@@ -468,13 +468,13 @@ const app = {
             Năm mười mười lăm hai mươi x2|<br>|
             Where are you at?|
             Năm mười mười lăm hai mươi|
-            Baby, I found your lovе|`
+            Baby, I found your love|`
         },
         {
             name: "Symphony",
             singer: "Clean Bandit, Zara Larsson",
             path: "Song_11.mp3",
-            image: "Song_10.jpg",
+            image: "Song_11.jpg",
             duration: 191,
             lyrics: `I've been hearing symphonies|
             Before all I heard was silence|
