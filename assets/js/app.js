@@ -527,6 +527,119 @@ const app = {
             Symphony|
             Like a love song on the radio|
             Will you hold me tight and not let go?|`
+        },
+        {
+            name: "Hoa tàn tình tan",
+            singer: "Giang Jolee",
+            path: "Song_12.mp3",
+            image: "Song_12.jpg",
+            duration: 120,
+            lyrics: `Em chẳng thấy bầu trời trong xanh|
+            Em chẳng thấy tiếng chim trong lành|
+            Như là giấc mơ mộng qua đây|
+            Em cất tất cả vào trong trái tim để dành|<br>
+            
+            Yêu vội vã để rồi ra đi|
+            Anh không nói nhưng em biết rồi|
+            Sau lời nói anh còn yêu em|
+            Là những dối lừa anh đâu muốn em bên cạnh|<br>
+            
+            Hoa trên giấy không sương hoa vẫn nở|
+            Thương ai rồi dù trắc chở vẫn thương|
+            Yêu anh quá nên em đành nuông chiều|
+            Cố giả vờ và mong anh hiểu thấu|<br>
+            
+            Chắc có lẽ em đã sai lầm|
+            Thương một người dù người ta đâu có thương|
+            Hoa không tàn là hoa in trên giấy|
+            Tình không tan là tình thấy trong mơ|<br><br>
+        
+            VER 2:|<br><br>
+            
+            Yêu vội vã để rồi ra đi|
+            Anh không nói nhưng em biết rồi|
+            Sau lời nói anh còn yêu em|
+            Là những dối lừa anh đâu muốn em bên cạnh|<br>
+            
+            Hoa trên giấy không sương hoa vẫn nở|
+            Thương ai rồi dù trắc trở vẫn thương|
+            Yêu anh quá nên em đành nuông chiều|
+            Cố giả vờ và mong anh hiểu thấu|<br>
+        
+            Chắc có lẽ em đã sai lầm|
+            Thương một người dù người ta đâu có thương|
+            Hoa không tàn là hoa in trên giấy|
+            Tình không tan là tình thấy trong mơ|`
+        },
+        {
+            name: "Monsters",
+            singer: "Katie Sky",
+            path: "Song_13.mp3",
+            image: "Song_13.jpg",
+            duration: 110,
+            lyrics: `[Chorus]
+            I see your monsters I see your pain|
+            Tell me your problems I’ll chase them away| 
+            I’ll be your lighthouse|
+            I’ll make it okay|
+            When I see your monsters|
+            I’ll stand there so brave|
+            And chase them all away|<br>
+            <br>
+            [Verse 1]<br>
+            In the dark we we|
+            We stand apart we we|
+            Never see that the things that we need are staring right at us|
+            You just want to hide hide hide|
+            Hide never show your smile smile|
+            Stand alone when you need someone it’s the hardest thing of all|
+            That you see are the bad bad bad|
+            Bad memories take your time and you’ll find me|<br>
+            <br>
+            [Chorus]|<br>
+            I see your monsters I see your pain|
+            Tell me your problems I’ll chase them away|
+            I’ll be your lighthouse I’ll make it okay|
+            When I see your monsters I’ll stand there so brave|
+            And chase them all away|<br><br>
+            
+            [Verse 2]|<br>
+            I could see the sky sky sky|
+            Sky beautiful tonight night|
+            When you breathe why can’t you see the clouds are in your head|
+            I would stay there there there|
+            There’s no need to fear fear|
+            And when you need to talk it out with someone you can trust|
+            What you see are the bad bad bad|
+            Bad memories take your time and you’ll find me|<br>
+            <br>
+            [Chorus]<br>
+            I see your monsters I see your pain|
+            Tell me your problems I’ll chase them away|
+            I’ll be your lighthouse I’ll make it okay|
+            When I see your monsters I’ll stand there so brave|
+            And chase them all away|
+            I'll chase them all away|<br><br>
+            
+            [Bridge]|<br>
+            You've got the chance to see the light|
+            Even in the darkest night|
+            And i'll be here like you were for me|
+            So just let me in..|<br><br>
+            
+            [Chorus]|<br>
+            Cause I see your monsters I see your pain|
+            Tell me your problems I’ll chase them away|
+            I’ll be your lighthouse I’ll make it okay|
+            When I see your monsters I’ll stand there so brave|
+            And chase them all away|<br><br>
+            
+            [Chorus]|<br>
+            I see your monsters I see your pain|
+            Tell me your problems I’ll chase them away|
+            I’ll be your lighthouse I’ll make it okay|
+            When I see your monsters I’ll stand there so brave|
+            And chase them all away|`
         }
     ],
 
