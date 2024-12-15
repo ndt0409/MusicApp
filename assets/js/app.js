@@ -217,45 +217,21 @@ const app = {
             Only you can save me|`
         },
         {
-            name: "Nevada",
-            singer: "Vicetone",
+            name: "Tái sinh",
+            singer: "Tùng Dương",
             path: "Song_5.mp3",
             image: "Song_5.jpg",
             duration: 208,
-            lyrics: `I've been painting every fence I know|
-            Every color bleeds into the same|
-            'Cause before you go and walk away|
-            Yeah, you better know where you're going|
+            lyrics: `Cơn mưa rơi tưới mát tâm hồn, nhẹ nhàng và, cơn mưa như đang tái sinh ta.|
+            Cơn mưa mang em đến bên đời dịu dàng và, sau cơn mưa tim cũng nở hoa|
+            Bầu trời xanh đến lạ, nắng tưới lên hàng lá non, ban mai ôm lấy tâm hồn, từ khi em ghé qua|
+            Và tình yêu bắt đầu, khi ta nhìn vào mắt nhau, anh thấy tim mình, tái sinh sau nhiều cơn đau|
             <br>|
-            Hey ya, hey ya|
-            You're a wanderer, just like me|
-            Hey ya, hey ya|
-            Yeah, you better know where you're going|
+            Chìm vào trong ánh mắt đắm đuối, anh ngỡ mình như đang đôi mươi, người làm anh biết yêu đắm say như tình đầu.|
+            Một vì sao sáng giữa bóng tối, ban mai về sau cơn mưa rơi, tái sinh anh từ đống tro tàn tình yêu|
             <br>|
-            Yeah, you better know where you're going|
-            <br>|
-            I've been painting every fence I know|
-            Every color bleeds into the same|
-            'Cause before you go and walk away|
-            Yeah, you better know where you're going|
-            <br>|
-            Hey ya, hey ya|
-            You're a wanderer just like me|
-            Hey ya, hey ya|
-            Yeah, you better know where you're going|
-            <br>|
-            Yeah, you better know where you're going|
-            <br>|
-            Hey ya, hey ya|
-            You're a wanderer just like me|
-            Hey ya, hey ya|
-            Yeah, you better know where you're going|
-            <br>|
-            Yeah, you better know where you're going|
-            Yeah, you better know where you're going|
-            You're a wanderer just like me|
-            Yeah, you better know where you're going|
-            You're a wanderer just like me|`
+            Chỉ cần một ánh mắt, mọi muộn phiền chợt biến mất, dịu dàng và ngây thơ, như tái sinh linh hồn.|
+            Thì thầm vào bên tai, chẳng buồn nào là mãi mãi, cũng sẽ đến khi mờ phai.|`
         },
         {
             name: "Thời không sai lệch",
